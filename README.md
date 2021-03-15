@@ -16,6 +16,13 @@ Use a square font to ensure that the graphics accurately represent both horizont
   - Dimensions: 16x16
   - Source: http://strlen.com/square/
 
+- `A Starry`: A font by Elementalist
+  - TrueType font
+    - Bitmap rendered via program
+    - Must include license
+  - Dimensions: 16x16
+  - Source: https://fontstruct.com/fontstructions/show/883666
+
 # Rectangular fonts
 
 # Other fonts
